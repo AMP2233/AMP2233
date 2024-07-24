@@ -8,10 +8,9 @@ I am studying Mechatronics Engineering and I strive to upload the most important
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fc1bf2eb-a2f6-45a3-9165-d713a0d1400f" alt="I8TU">
 </p>
----
 
 ## Hi, I'm Adrian!
-
+---
 Hello, I really didn't know what to put about me, but I wanted to have my profile personalized :)
 
 - 🖥️ Focused on: Biomechatronic / Exoesqueleton / Programming
@@ -19,11 +18,10 @@ Hello, I really didn't know what to put about me, but I wanted to have my profil
 - 🎯 Goal: Help to people.
 - 🎮 Hobbies: Steam Gamer / Watch Anime / Listen to Music / Riding a bike / Play soccer.
 
----
-
 ## Adrian's GitHub Stats
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMP2233&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMP2233&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMP2233&layout=compact&bg_color=00000000&hide_border=true)](https://github.com/AMP2233/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMP2233&layout=compact&theme=transparent)](https://github.com/AMP2233/github-readme-stats)
 
 
