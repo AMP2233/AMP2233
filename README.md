@@ -23,4 +23,5 @@ Hello, I really didn't know what to put about me, but I wanted to have my profil
 
 ## Adrian's GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMP2233)](https://github.com/AMP2233/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMP2233&show_icons=true&theme=transparent)
 
