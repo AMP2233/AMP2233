@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
-
 <p align="center">
-  <img src="https://i.gifer.com/I8TU.gif" alt="party parrot">
+  <img src="https://i.gifer.com/I8TU.gif" alt="bye bye gif">
 </p>
 
 <p align="center">
@@ -18,18 +17,18 @@ I am studying Engineer mechatronic, so I was self-taught and learned a lot, but 
 
 ---
 
-## Hi, I'm Alessandro!
+## Hi, I'm Adrian!
 
 Hello, I really didn't know what to put about me, but I wanted to have my profile personalized :)
 
-- 🖥️ Focused on: Python / Reversing / Programming
-- 📚 Learning: Python / C++
-- 🎯 Goal: Find an idea for a project.
+- 🖥️ Focused on: Biomechatronic / Exoesqueleton / Programming
+- 📚 Learning: Python / C++ / Matlab
+- 🎯 Goal: Help to people.
 - 🎮 Hobbies: Steam Gamer / Watch Anime / Listen to Music / Riding a bike / Play soccer.
 
 ---
 
-## Alessandro's GitHub Stats
+## Adrian's GitHub Stats
 
 ![Alessandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
