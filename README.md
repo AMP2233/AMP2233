@@ -23,5 +23,6 @@ Hello, I really didn't know what to put about me, but I wanted to have my profil
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMP2233&show_icons=true&theme=transparent)
 <img alt="stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=AMP2233&show_icons=true&theme=transparent"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMP2233&layout=compact&theme=transparent)](https://github.com/AMP2233/github-readme-stats)
+<img alt="stats" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMP2233&layout=compact&theme=transparen"/>
 
 
