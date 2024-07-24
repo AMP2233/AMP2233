@@ -11,9 +11,7 @@
 
 I am studying Engineer mechatronic, so I was self-taught and learned a lot, but I feel I didn't learn enough. Now I'm trying to figure out something new to do, and even though I'm just starting on github, I have the experience to be able to publish a decent repository.
 
-<p align="center">
-  <img src="https://i.gifer.com/I8TU.gif" alt="bye bye">
-</p>
+![I8TU](https://github.com/user-attachments/assets/fc1bf2eb-a2f6-45a3-9165-d713a0d1400f)
 
 ---
 
