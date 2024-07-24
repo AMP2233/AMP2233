@@ -3,12 +3,8 @@
   <img src="https://i.gifer.com/I8TU.gif" alt="bye bye gif">
 </p>
 
-<p align="center">
-  Alessandro / ![knowledge?](https://img.shields.io/badge/knowledge%3F-%E2%98%AF%20%CE%BB%20%E2%98%AF-blue)
-</p>
-
 ---
-I am studying Engineer mechatronic, so I was self-taught and learned a lot, but I feel I didn't learn enough. Now I'm trying to figure out something new to do, and even though I'm just starting on github, I have the experience to be able to publish a decent repository.
+I am studying Mechatronics Engineering and I strive to upload the most important codes that are essential for the development of various projects in my career. My goal is to make these projects available for everyone to implement and recreate. I aim to use this platform to share codes related to biomechatronics, particularly those applied to exoskeletons.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fc1bf2eb-a2f6-45a3-9165-d713a0d1400f" alt="I8TU">
 </p>
