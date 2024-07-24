@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
-  <img src="https://emoji.slack-edge.com/T024BE7LD/partyparrot/727645408736/partyparrot.gif" alt="party parrot">
+  <img src="https://i.gifer.com/I8TU.gif" alt="party parrot">
 </p>
 
 <p align="center">
