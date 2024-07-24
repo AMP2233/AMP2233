@@ -22,5 +22,7 @@ Hello, I really didn't know what to put about me, but I wanted to have my profil
 ---
 <img alt="stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=AMP2233&show_icons=true&theme=transparent"/>
 <img alt="stats" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMP2233&layout=compact&theme=transparent"/>
+<img alt="stats" width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMP2233&layout=compact&theme=transparent"/>
+
 
 
