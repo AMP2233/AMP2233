@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to my GitHub profile, My name is Adrian
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://i.gifer.com/I8TU.gif)
+![I8TU](https://github.com/user-attachments/assets/7c1073b7-8dad-4e47-ac0a-ff146c7c1fad)
 
 I am studying Mechatronics Engineering and I strive to upload the most important codes that are essential for the development of various projects in my career. My goal is to make these projects available for everyone to implement and recreate. I aim to use this platform to share codes related to biomechatronics, particularly those applied to exoskeletons.
 
